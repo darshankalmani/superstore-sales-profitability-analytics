@@ -13,6 +13,10 @@ build an interactive dashboard.
 The goal is to turn sample retail order data into useful business
 insights that can support better sales and profitability decisions.
 
+## Dashboard Preview
+
+![Superstore Sales & Profitability Dashboard](screenshots/Dashboard.png)
+
 ## Project Objectives
 
 -   Analyze overall sales, profit, and profit margin.
